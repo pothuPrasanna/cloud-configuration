@@ -1,0 +1,5 @@
+my:
+ greeting: Welcome to wipro
+ list:
+  courses: Aws,cloud,spring
+  
